@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2021-09-06T06:09:54.819Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="eO-IIilM7_JYh8s7fh0E" version="15.0.6" type="github"><diagram id="JYy8qpWYQjiHHaf_0ouh" name="Page-1">5VlLk+I2EP41Ou6W39hHGzyTw6RqK5NKJkdhC1BWWC4jBsivT0uWH/gBnh2Ynaq9UOqW1Ja7v/5abZA93x4fC5xvfucpYcgy0iOyF8iyAseDX6k4lQrPMkvFuqBpqWopnul/RCsNrd3TlOzOFgrOmaD5uTLhWUYScabDRcEP58tWnJ0/Ncdr0lM8J5j1tX/TVGxKre8ajf43Qteb6smmoWe2uFqsFbsNTvmhpbJjZM8LzkU52h7nhEnfVX4p9z2MzNYHK0gmpmx4dAJih0ny1+zEF0989e/jS/LFdEozr5jt9Rvr04pT5QI4eC6H+y17oivCaAZSBA8WNKE5Vk+HuTARvJATpKBbIgiMF0yv/9boosOGCvKc40TaPABoQLcRWwaSCUMIpMCwpahlxnC+o0t1HAM0BUn2xY6+kj/IrsSL1L4SeR7MQkbXGegEl4Z38Byarf+UwsL2QMP3Qp5oXuNFbtZOABPkOOpesw4agJ1weJ/iBEv0hgoRGueOFg8NaCogbFp4cap1WON0XRtuQgkDHc23RNbtRzb2UOSjSA2CBxTYKHZQFKNwNjXoPye294qZeT1odT5/TNRs+3o+thyac5oJdQY3Qu6iEyFeiA1f8wyzdowm+e0CpEa96bhnzvSGnNn3pe3dy5eOOZgBoYGiQA78BQpjFLvID1HoK42BfBPFkCIzFD6geIYCyA+lARGUMoFM5IOdAIUmilw5CMCOJe1Abvm2GpjSlOXhrUyAbLnLa78Px7FLXksuBN/CBMnSUFYxqWM8+a5U4JwXmQRfzUr8R4lWJS6OOkdK6dSWWlBQyhVlbM6ZpG44lL1aES9JJHOKgn8nrZl0FiyNJvFI2iuck+AD9RsXa3Jpoe0N46yFJF+DpiAMC6CL87o/gCRt7ZtMmAay3nn++x0o7vi+SIje0y6tHTOmc9lO+cY9OwrV9fu9g+q9AaDPUBQh31EMH6HI+8Wp3v50VO9Yn5nqR1JwmOrrOnqF67t5cbvLzmwgAwLku5LkZSqUVP9LZ4D76TLAHrqiQvF9kGUXymgQoSAeKLXvLKQ8JzAVpXi3IaneB9O69/SldKTipSqaMC7La+COF7+yUky42PXiNaEelk1aP7DvLH6m1cnimfehZcvu957mV3XXiiUGZLhnKm1vDYD+TersHjUe5es3l/EoX0XIR0XZmHbJuVmUBy4nP6PMXSHHoOMlc1pFc+/Gjf6PceNAG3Jvtnx7B1Hx6xfdwtQUW5Fv08BI4dQSuu3LD/OxNxki70xAy/A7l6WOiRGa7RlyfeOyoTtnsjPwrVBC0lBwU72ybKNd1SsHCoChQmuvFbkRf4/EfkJIb99J1uxw6shv7SXt4IqhO1dlZ5h44NYc2uq7YYzghENfOxj4PFoWMFrL0WRsmBIVktJi5EdDdvpfLWFxIA12gSSx8KzFplbEjbZ9QccaYoysRPOp+ElJC2sYcgXfZ6niwYlfQu7DKaY/0oBdQRu8Dj61lulqe+Hy0KUc4yJ4u+sr8DYYLU8w7a1uB30Qmz9ayuXNv1V2/D8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-06T06:15:14.616Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="nmudCMd4wkdYB24995ft" version="15.0.6" type="github">
+  <diagram id="JYy8qpWYQjiHHaf_0ouh" name="Page-1">
+    <mxGraphModel dx="946" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G49e3AccV7yoDLofjGXc-14" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="40" width="20" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="G49e3AccV7yoDLofjGXc-15" value="渲染侧" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="40" width="100" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="G49e3AccV7yoDLofjGXc-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="G49e3AccV7yoDLofjGXc-15" vertex="1">
+          <mxGeometry x="45" y="60" width="10" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="G49e3AccV7yoDLofjGXc-41" value="根据动态路由请求页面布局 " style="verticalAlign=bottom;endArrow=block;html=1;" parent="G49e3AccV7yoDLofjGXc-15" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="60" y="90" as="sourcePoint" />
+            <mxPoint x="440" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G49e3AccV7yoDLofjGXc-16" value="组件侧" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="40" width="100" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="G49e3AccV7yoDLofjGXc-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="G49e3AccV7yoDLofjGXc-16" vertex="1">
+          <mxGeometry x="45" y="220" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G49e3AccV7yoDLofjGXc-17" value="配置侧" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="550" y="40" width="100" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="G49e3AccV7yoDLofjGXc-35" value="返回页面" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="G49e3AccV7yoDLofjGXc-33" target="G49e3AccV7yoDLofjGXc-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="176" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G49e3AccV7yoDLofjGXc-34" value="1.访问页面" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="G49e3AccV7yoDLofjGXc-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="100" as="sourcePoint" />
+            <mxPoint x="190" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G49e3AccV7yoDLofjGXc-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="595" y="110" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="G49e3AccV7yoDLofjGXc-38" value="返回页面布局" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="180" as="targetPoint" />
+            <mxPoint x="590" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G49e3AccV7yoDLofjGXc-44" value="调用对应组件" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="210" y="280" as="sourcePoint" />
+            <mxPoint x="390" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G49e3AccV7yoDLofjGXc-48" value="解析布局&lt;br&gt;根据组件类型&lt;br&gt;调用渲染器" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185" y="220" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="120" y="220" />
+              <mxPoint x="120" y="280" />
+            </Array>
+            <mxPoint x="185" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-odfrlSnA0EbJWILc02-1" value="渲染组件" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="329.5" as="sourcePoint" />
+            <mxPoint x="210" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
